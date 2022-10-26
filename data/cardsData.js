@@ -1,0 +1,60 @@
+[
+    {
+        "id":"01",
+        "title": "HTML Course",
+        "img":"https://media.istockphoto.com/photos/web-design-development-and-coding-concept-picture-id1219854221?b=1&k=20&m=1219854221&s=170667a&w=0&h=wl3J-ScOcNohyXiXvPTK9FEnUyUS52VfXq7jcI1MECk=",
+        "videos":"Total Video 45",
+        "time":"Course Duration 1-2 Month",
+        "details":"This HTML course for web developers provides a solid overview for developers, from novice to expert level HTML.This HTML course for web developers provides a solid overview for developers, from novice to expert level HTML. If you're completely new to HTML, you will learn how to build structurally sound content. If you've been building websites for years, this course may fill in gaps in knowledge that you didn't even know you had.Along this journey, we will be building the structure for MachineLearningWorkshop.com.",
+        "enroll":"900 +"
+
+    },
+    {
+        "id":"02",
+        "title": "CSS Course",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThHj-Qf8KQJx9z3JTFcI2ulLbjZ5LQSmPdog&usqp=CAU",
+        "videos":"Total Video 50",
+        "time":"Course Duration 1-2 Month",
+        "details":"An evergreen CSS course and reference to level up your web styling expertise.This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. Use the menu pane by the Learn CSS logo to navigate the modules.You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties and inheritance to make you a well-rounded front-end developer, ready to take on any user interface.",
+        "enroll":"1200 +"
+
+    },
+    {
+        "id":"03",
+        "title": "Bootstrap Course",
+        "img":"https://blog.getbootstrap.com/assets/img/2022/09/examples.png",
+        "videos":"Total Video 55",
+        "time":"Course Duration 1-2 Month",
+        "details":"In this tutorial, we will learn about the famous fluid front-end framework - Bootstrap (version - 5.x).A Responsive - mobile ready HTML, CSS, and JavaScript-based framework. The bootstrap files contain almost all the needed IDs, classes and JavaScript functions which may be required in any front-end design. Bootstrap was developed at Twitter by Mark Otto and Jacob Thornton.       Bootstrap went viral as it's twelve-column grid-system is device friendly (desktop, tablets, mobile phones) and very easy to use. The Bootstrap framework has pre-designed UI components like buttons, navigation bar, navigation with drop-down, forms, popover, tabs, dialogue boxes, image thumbnails, tooltips etc. So developers just need to add respective classes and IDs as per requirement in HTML document. But it is completely customizable and can be overridden to make required changes. eg;",
+        "enroll":"1800 +"
+
+    },
+    {
+        "id":"04",
+        "title": "TailWind Course",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3vNMANeZKNBqHUX5Oi0OthtfNdrIaKQLtLg&usqp=CAU",
+        "videos":"Total Video 35",
+        "time":"Course Duration 1-2 Month",
+        "details":"Tailwind CSS tutorial - Learn how to build websites using a utility-first CSS framework. In this tutorial I would like to introduce you to one of the fastest growing and promising CSS Frameworks at the moment, Tailwind CSS. It is different from other frameworks, such as Bootstrap, because it is built on a new way of building user interfaces using a utility-first CSS classes structure, as opposed to the OOCSS structure from other frameworks.",
+        "enroll":"800 +"
+    },
+    
+    {
+        "id":"05",
+        "title": "JavaScript Course",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVy5CBdj9NUMIcRI7q7JafnO5zVUJl09hhrQ&usqp=CAU",
+        "videos":"Total Video 150",
+        "time":"Course Duration 1-4 Month",
+        "details":"JavaScript is the programming language that lets the Internet work. The Internet would be nothing without JavaScript and in this lesson, you will find out why.JavaScript is the third of the major building blocks of a web page. Without it, we wouldn’t have the dynamic content and usability we expect from modern websites. We will now learn what it is (and isn’t) and how it is used, not only on the web but in all of its applications.",
+        "enroll":"2100 +"
+    },
+    {
+        "id":"06",
+        "title": "React Course",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgXzzowab8scwfSl-FK9X5F56Xes0wGnHLQ&usqp=CAU",
+        "videos":"Total Video 100",
+        "time":"Course Duration 1-4 Month",
+        "details":"Understand React inside out and boost your career prospects. React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It’s ‘V’ in MVC. ReactJS is an open-source, component-based front-end library responsible only for the view layer of the application. It is maintained by Facebook.React uses a declarative paradigm that makes it easier to reason about your application and aims to be both efficient and flexible. It designs simple views for each state in your application, and React will efficiently update and render just the right component when your data changes. The declarative view makes your code more predictable and easier to debug.",
+        "enroll":"1900 +"
+    },
+]
